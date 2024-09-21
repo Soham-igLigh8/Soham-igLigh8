@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Soham-igLigh8
 
 
-<!---[ReadMe (1).md](https://github.com/user-attachments/files/17085479/ReadMe.1.md)# 💫 About Me:
+<!---[ReadMe (1).md](https://github.com/user-attachments/files/17085479/ReadMe.1.md)#
 # 💫 About Me:
 "Passionate computer science engineer with a strong foundation in AI/ML. Currently honing my skills in full-stack and web development, eager to contribute to innovative projects and collaborate with like-minded individuals. Let's build something amazing together!"
 
